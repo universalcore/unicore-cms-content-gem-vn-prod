@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "\u064a\u062c\u0628 \u0623\u0646 \u0623\u0643\u0648\u0646 \u0630\u0643\u064a\u0629", 
-  "language": "ara_MA", 
+  "language": "ara_AE", 
   "title": "\u0647\u0624\u0644\u0627\u0621 \u0627\u0644\u0635\u0628\u064a\u0629 \u0641\u064a \u0627\u0644\u062c\u0627\u0646\u0628", 
   "primary_category": "1a6b0ffde5074d6b9ceb96c7147362e6", 
   "created_at": "2015-04-02T22:43:12+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-06T12:12:00.096731+00:00", 
+  "modified_at": "2015-09-07T10:31:35.108905+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
